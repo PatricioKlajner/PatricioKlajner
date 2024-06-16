@@ -4,7 +4,7 @@
 
 - [Conducting a Security Audit](https://github.com/PatricioKlajner/Security_Audit)
   
-<h2>Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](LINK OF CERT)
 

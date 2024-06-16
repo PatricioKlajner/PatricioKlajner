@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Project 1](LINK OF PROJECT)
+- [Conducting a Security Audit](LINK OF PROJECT)
   
 <h2>Certifications:</h2>
 

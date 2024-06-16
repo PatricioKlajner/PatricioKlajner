@@ -6,7 +6,7 @@
   
 <h2>Certifications:</h2>
 
-- [Google Cybersecurity Certificate](LINK OF CERT)
+- [Google Cybersecurity Professional Certificate](LINK OF CERT)
 
 
 

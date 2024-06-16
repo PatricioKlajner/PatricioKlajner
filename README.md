@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Conducting a Security Audit](LINK OF PROJECT)
+- [Conducting a Security Audit]((https://github.com/PatricioKlajner/Security_Audit/blob/8d6baa266d742c544ade9cbc41edd8aa77c2fb76/README.md))
   
 <h2>Certifications:</h2>
 

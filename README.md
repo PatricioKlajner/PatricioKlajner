@@ -7,6 +7,7 @@
 - [Analyzing Network Layer Communication with tcpdump](https://github.com/PatricioKlajner/Analyzing_Network_Later_Communication)
 - [Analyzing Network Attacks with Wireshark](https://github.com/PatricioKlajner/Analyzing_Networkk_Attacks)
 - [Applying OS Hardening Techniques](https://github.com/PatricioKlajner/Applying_OS_Hardening_Techniques)
+- [Analysis of Network Hardening](https://github.com/PatricioKlajner/Analysis_of_Network_Hardening)
   
 <h2>📄 Certifications:</h2>
 

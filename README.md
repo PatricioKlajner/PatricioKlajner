@@ -8,6 +8,7 @@
 - [Analyzing Network Attacks with Wireshark](https://github.com/PatricioKlajner/Analyzing_Networkk_Attacks)
 - [Applying OS Hardening Techniques](https://github.com/PatricioKlajner/Applying_OS_Hardening_Techniques)
 - [Analysis of Network Hardening](https://github.com/PatricioKlajner/Analysis_of_Network_Hardening)
+- [Using Linux Commands to Manage File Permissions](https://github.com/PatricioKlajner/Using_Linux_Commands_to_Manage_File_Permissions)
   
 <h2>📄 Certifications:</h2>
 

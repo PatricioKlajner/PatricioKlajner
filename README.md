@@ -6,6 +6,7 @@
 - [Using NIST Cybersecurity Framework to Respond to a Security Incident](https://github.com/PatricioKlajner/NIST_CSF_Incident_Response)
 - [Analyzing Network Layer Communication with tcpdump](https://github.com/PatricioKlajner/Analyzing_Network_Later_Communication)
 - [Analyzing Network Attacks with Wireshark](https://github.com/PatricioKlajner/Analyzing_Networkk_Attacks)
+- [Applying OS Hardening Techniques](https://github.com/PatricioKlajner/Applying_OS_Hardening_Techniques)
   
 <h2>📄 Certifications:</h2>
 

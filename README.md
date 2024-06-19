@@ -11,6 +11,7 @@
 - [Using Linux Commands to Manage File Permissions](https://github.com/PatricioKlajner/Using_Linux_Commands_to_Manage_File_Permissions)
 - [Applying Filters to SQL Queries](https://github.com/PatricioKlajner/Applying_Filters_to_SQL_Queries)
 - [Vulnerability Assessment Report](https://github.com/PatricioKlajner/Vulnerability_Assessment_Report)
+- [Updating a File through a Python Algorithm](https://github.com/PatricioKlajner/Updating_a_file_through_a_Python_Algorithm)
   
 <h2>📄 Certifications:</h2>
 

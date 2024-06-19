@@ -10,6 +10,7 @@
 - [Analysis of Network Hardening](https://github.com/PatricioKlajner/Analysis_of_Network_Hardening)
 - [Using Linux Commands to Manage File Permissions](https://github.com/PatricioKlajner/Using_Linux_Commands_to_Manage_File_Permissions)
 - [Applying Filters to SQL Queries](https://github.com/PatricioKlajner/Applying_Filters_to_SQL_Queries)
+- [Vulnerability Assessment Report](https://github.com/PatricioKlajner/Vulnerability_Assessment_Report)
   
 <h2>📄 Certifications:</h2>
 
